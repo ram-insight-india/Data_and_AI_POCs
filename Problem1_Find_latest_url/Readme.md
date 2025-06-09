@@ -21,3 +21,25 @@ Your goal is to write a Python notebook that:
 
 - Create a new folder inside this directory using your **name** or **GitHub username**.
 - Place your solution notebook in your folder. Name it:
+solution.ipynb
+
+- Your notebook should clearly show:
+- The logic for finding the latest link
+- The printed latest download URL
+- The data read into a dataframe using `pandas`
+
+---
+
+## 📦 Example Folder Structure
+
+📁 Problem1_DownloadLatestImmigrationData/
+├── README.md
+├── 📁 alice/
+│ └── solution.ipynb
+├── 📁 bob/
+│ └── solution.ipynb
+
+
+---
+
+Happy coding! Let’s see how creatively and efficiently you can solve this. 🚀
