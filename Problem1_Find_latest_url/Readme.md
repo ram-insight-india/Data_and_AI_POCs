@@ -32,12 +32,14 @@ solution.ipynb
 
 ## 📦 Example Folder Structure
 
+
 📁 Problem1_DownloadLatestImmigrationData/
 ├── README.md
 ├── 📁 alice/
 │ └── solution.ipynb
 ├── 📁 bob/
 │ └── solution.ipynb
+
 
 
 ---
