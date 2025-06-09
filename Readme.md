@@ -16,23 +16,23 @@ Each problem statement is designed to explore ideas, test hypotheses, or prototy
 
 Each problem statement will have its own top-level folder in the repository, following this structure:
 
-📁 Problem1/
-├── README.md ← Contains the problem statement and instructions
-└── 📁 your-name/ ← Your personal folder with your solution
-📁 Problem2/
-├── README.md
-└── 📁 your-name/
+- 📁 Problem1/
+  - README.md ← Contains the problem statement and instructions
+  - 📁 your-name/ ← Your personal folder with your solution
+- 📁 Problem2/
+  - README.md
+  - 📁 your-name/
 
 
 ### Example
 
 If a problem named **Problem1** is shared, the folder structure should look like this:
 
-📁 Problem1/
-├── README.md ← This file contains the problem details and what needs to be solved
-├── 📁 alice/ ← Alice’s solution goes here
-├── 📁 bob/ ← Bob’s solution goes here
-└── 📁 charlie/ ← Charlie’s solution goes here
+- Problem1/
+  - README.md ← This file contains the problem details and what needs to be solved
+  - 📁 alice/ ← Alice’s solution goes here
+  - 📁 bob/ ← Bob’s solution goes here
+  - 📁 charlie/ ← Charlie’s solution goes here
 
 
 > ⚠️ Please **do not** edit the main `README.md` inside the problem folder. Create your own subfolder and include your solution and any supporting files (scripts, notebooks, docs, etc.) inside it.
